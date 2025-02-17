@@ -5,6 +5,7 @@
 // @version      2024-09-28
 // @author       popring
 // @match        https://m.huxiu.com/*
+// @match        https://m.thepaper.cn/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=huxiu.com
 // @grant        none
 // @license MIT
@@ -13,9 +14,10 @@
 // ==/UserScript==
 
 (function () {
-  'use strict';
+  "use strict";
   const map = {
-    'm.huxiu.com': 'www.huxiu.com',
+    "m.huxiu.com": "www.huxiu.com",
+    "m.thepaper.cn": "www.thepaper.cn",
   };
   const host = location.host;
   for (const [key, value] of Object.entries(map)) {
