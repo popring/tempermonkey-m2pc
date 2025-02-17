@@ -5,3 +5,13 @@
 有新的需要兼容，欢迎提 `issues` or `PR`。
 
 油猴插件安装地址：https://greasyfork.org/zh-CN/scripts/510561-%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%93%BE%E6%8E%A5%E8%B7%B3%E7%94%B5%E8%84%91%E7%AB%AF
+
+---
+
+# tampermonkey-m2pc
+
+This script cannot automatically convert the links shared by mobile devices into web links on the computer in order to be compatible with them.
+
+If you need to be compatible, please report `issues` or `PR`.
+
+Tampermonkey plugin installation address: https://greasyfork.org/zh-CN/scripts/510561-%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%93%BE%E6%8E%A5%E8%B7%B3%E7%94%B5%E8%84%91%E7%AB%AF
