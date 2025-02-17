@@ -1,12 +1,16 @@
 {
-  "name": "tempermonkey-m2pc",
+  "name": "tampermonkey-m2pc",
   "version": "1.0.0",
-  "description": "",
+  "description": "移动端链接跳转PC端",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jsdom": "^24.0.0"
+  }
 }
